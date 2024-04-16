@@ -1,0 +1,4 @@
+DB_HOST = localhost
+DB_USERNAME = admintugas
+DB_PASSWORD = ug224
+DB_NAME = backend_task
